@@ -1,3 +1,4 @@
-def main():
-  print('Miguel Ortega')
-main()
+def main(name):
+  print(name)
+
+main('Finn')
